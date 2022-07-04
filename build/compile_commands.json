@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zk/vswork/string/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/string.dir/source/main.cpp.o -c /home/zk/vswork/string/source/main.cpp",
+  "file": "/home/zk/vswork/string/source/main.cpp"
+}
+]
